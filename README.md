@@ -27,6 +27,12 @@ The app uses the following technologies:
 ## Deployment
 The application is already deployed and can be accessed at https://album-reviewer.vercel.app/home. The frontend is deployed on Vercel, the API is hosted on Google Cloud, and the database is hosted by PScale.
 
+<img width="1397" alt="image" src="https://user-images.githubusercontent.com/105306727/234370234-ff3428d1-d3b0-45e5-b402-d89a61453df1.png">
+<img width="1394" alt="image" src="https://user-images.githubusercontent.com/105306727/234370425-ec13f20a-1a31-4acb-96b5-bf2a0b1b4b8c.png">
+<img width="1396" alt="image" src="https://user-images.githubusercontent.com/105306727/234370547-c8222c72-8678-492b-b31a-3928bacec764.png">
+<img width="1389" alt="image" src="https://user-images.githubusercontent.com/105306727/234370696-51a98925-b93e-4ce5-9756-b9de7d0e3aea.png">
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/105306727/234370786-731cbcf5-5830-41ee-a3e4-5eb99680112f.png">
+
 ## Getting Started
 
 To get started with the application, you'll need to do the following:
